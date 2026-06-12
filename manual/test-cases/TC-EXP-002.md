@@ -1,15 +1,3 @@
----
-id: TC-EXP-002
-title: Login with wrong password
-project: parabank-qa
-module: authentication
-technique: exploratory
-priority: high
-status: fail
-bug-ref: BUG-AUTH-001
-tags: [parabank-qa, authentication, exploratory, login, bug]
----
-
 # TC-EXP-002 — Login with wrong password
 
 ## Preconditions

@@ -1,14 +1,3 @@
----
-id: TC-EXP-005
-title: Registration with a username that already exists
-project: parabank-qa
-module: authentication
-technique: exploratory
-priority: medium
-status: pass
-tags: [parabank-qa, authentication, exploratory, registration, validation]
----
-
 # TC-EXP-005 — Registration with a username that already exists
 
 ## Preconditions

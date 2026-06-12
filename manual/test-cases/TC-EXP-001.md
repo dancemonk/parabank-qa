@@ -1,14 +1,3 @@
----
-id: TC-EXP-001
-title: Login with valid credentials
-project: parabank-qa
-module: authentication
-technique: exploratory
-priority: high
-status: pass
-tags: [parabank-qa, authentication, exploratory, login]
----
-
 # TC-EXP-001 — Login with valid credentials
 
 ## Preconditions

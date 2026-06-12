@@ -1,15 +1,3 @@
----
-id: TC-EXP-003
-title: Login with a username that does not exist
-project: parabank-qa
-module: authentication
-technique: exploratory
-priority: high
-status: fail
-bug-ref: BUG-AUTH-002
-tags: [parabank-qa, authentication, exploratory, login, bug]
----
-
 # TC-EXP-003 — Login with a username that does not exist
 
 ## Preconditions

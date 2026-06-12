@@ -1,14 +1,3 @@
----
-id: TC-EXP-004
-title: Login with both fields empty
-project: parabank-qa
-module: authentication
-technique: exploratory
-priority: medium
-status: pass
-tags: [parabank-qa, authentication, exploratory, login, validation]
----
-
 # TC-EXP-004 — Login with both fields empty
 
 ## Preconditions
